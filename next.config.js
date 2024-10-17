@@ -13,7 +13,8 @@ module.exports = {
   i18n,
   images: {
     domains: [
-      'localhost',
+      'vps.nontonjav.com',
+      'nontonjav.com',
       '127.0.0.1',
       '127.0.0.1:8000',
       'maps.googleapis.com',
