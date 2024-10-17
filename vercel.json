@@ -1,7 +1,7 @@
 {
   "env": {
     "NEXT_PUBLIC_REST_API_ENDPOINT": "https://vps.nontonjav.com/backend",
-    "NEXT_PUBLIC_WEBSITE_URL": "https://vps.nontonjav.com",
+    "NEXT_PUBLIC_WEBSITE_URL": "https://codenine.top",
     "NEXT_PUBLIC_ADMIN_URL": "https://admin-seven-ecru.vercel.app",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "acct_1QAnn7HCco30wGSJ",
     "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "EbMIp84RrPA4MxYos5f7LLHV1zlllajZTeuecb4s-aEtXuWx9sEmO2u_En4",
@@ -18,7 +18,7 @@
   "build": {
     "env": {
       "NEXT_PUBLIC_REST_API_ENDPOINT": "https://vps.nontonjav.com/backend",
-      "NEXT_PUBLIC_WEBSITE_URL": "https://vps.nontonjav.com",
+      "NEXT_PUBLIC_WEBSITE_URL": "https://codenine.top",
       "NEXT_PUBLIC_ADMIN_URL": "https://admin-seven-ecru.vercel.app",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "acct_1QAnn7HCco30wGSJ",
       "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "EbMIp84RrPA4MxYos5f7LLHV1zlllajZTeuecb4s-aEtXuWx9sEmO2u_En4",
