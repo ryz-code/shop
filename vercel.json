@@ -2,7 +2,7 @@
   "env": {
     "NEXT_PUBLIC_REST_API_ENDPOINT": "https://vps.nontonjav.com/backend",
     "NEXT_PUBLIC_WEBSITE_URL": "https://vps.nontonjav.com",
-    "NEXT_PUBLIC_ADMIN_URL": "",
+    "NEXT_PUBLIC_ADMIN_URL": "https://admin-seven-ecru.vercel.app",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
     "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
     "NEXT_PUBLIC_PAYSTACK_KEY": "",
@@ -19,7 +19,7 @@
     "env": {
       "NEXT_PUBLIC_REST_API_ENDPOINT": "https://vps.nontonjav.com/backend",
       "NEXT_PUBLIC_WEBSITE_URL": "https://vps.nontonjav.com",
-      "NEXT_PUBLIC_ADMIN_URL": "",
+      "NEXT_PUBLIC_ADMIN_URL": "https://admin-seven-ecru.vercel.app",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "",
       "NEXT_PUBLIC_PAYPAL_CLIENT_TOKEN": "",
       "NEXT_PUBLIC_PAYSTACK_KEY": "",
